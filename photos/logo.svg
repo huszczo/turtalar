@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="80mm"
+   height="18mm"
+   viewBox="0 0 80 18"
+   version="1.1"
+   id="svg11145"
+   inkscape:version="1.1.2 (b8e25be833, 2022-02-05)"
+   sodipodi:docname="logo.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview11147"
+     pagecolor="#ffffff"
+     bordercolor="#999999"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     width="99mm"
+     inkscape:zoom="2.0938813"
+     inkscape:cx="144.22976"
+     inkscape:cy="133.24538"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs11142" />
+  <g
+     inkscape:label="Warstwa 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:22.7481px;line-height:1.25;font-family:sans-serif;fill:none;fill-opacity:1;stroke:#2ca02c;stroke-width:1.21443;stroke-miterlimit:4;stroke-dasharray:none"
+       x="0.43785429"
+       y="17.004601"
+       id="text1442"><tspan
+         sodipodi:role="line"
+         id="tspan1440"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Rubik;-inkscape-font-specification:Rubik;fill:none;stroke:#2ca02c;stroke-width:1.21443;stroke-miterlimit:4;stroke-dasharray:none"
+         x="0.43785429"
+         y="17.004601">turtalar</tspan></text>
+  </g>
+</svg>

@@ -512,8 +512,11 @@ margin-top: 10px;
   width: 100%;
   padding-left: 10px;
   padding-right: 10px;
+}.hrtext {
+  font-size: 13px;
 }
 .hrtext::after {
   content: '─────── Some Of Our Projects ───────';
+  padding:0;
 }
 }

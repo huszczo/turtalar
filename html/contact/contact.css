@@ -141,7 +141,7 @@ html,body {
    flex-direction: column;
   }
   
-  .fleft h1 {
+  .fleft h1,.contact-description i{
     color: #00bda6;
   }
   .fleft a {

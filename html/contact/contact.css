@@ -68,8 +68,9 @@ html,body {
   display: flex;
   flex-direction: column;
   align-items: center;
+  justify-content: center;
 }
-.pitch-us {
+.pitch-us,.contact-info{
   padding-left: 2.5em;
   padding-right: 2.5em;
 }

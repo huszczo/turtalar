@@ -8,7 +8,7 @@ html,body {
     font-family: 'Epilogue';
 }
 .content {
-    height: 2000px;
+    height: max-content;
     width: 1500px;
     margin: 0 auto;
     padding: 0;
@@ -44,79 +44,65 @@ align-items: center;
 font-size: 250%;
 }
 .main {
-    width: 100%;
-    height: 70%;
-    margin: 0;
-    padding: 0;
-    background-color: rgb(162, 206, 244);
     display: flex;
     flex-direction: column;
-
-}
-.border {
-    font-size: 40px;
-    font-weight: 900;
-    text-align: center;
-}
-.normal {
-    font-size: 20px;
-    text-align: center;
-    width: 80%;
-}
-.wieclawskiimg {
-    border-radius: 0 !important;
-    width: 100%;
+    align-items: center;
+    justify-content: center;
+    gap: 1em;
+    width: 100% !important;
     height: auto;
+    padding: 0 !important;
+    margin: 0 !important;
 }
-.wieclawski {
-    display: flex;
-    justify-content: space-between !important;
+
+.contact-us {
+  display: grid;
+  grid-template-columns: 33.33% 33.33% auto;
+  height: 75vh;
+  background-color: white;
 }
-.wieclawski,.zsz {
+.malicki,.huszczo{
+    background-color: rgb(157, 157, 157);
     display: flex;
-    flex-direction: row;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.photo {
+    width: 100%;
+    height: 50%;
+    display: flex;
     justify-content: center;
     align-items: center;
-    margin: 0;
-    padding: 0;
-    height: 33%;
-    width: 100%;
-    gap: 5%;
-    background-color:rgb(199, 248, 234);
-
+    padding: 10px;
 }
-.amazon {
+.name {
+    height: 50%;
+    width: 100%;
+    font-weight: 600;
+    color: black;
     display: flex;
-    flex-direction: row-reverse;
+    align-items: flex-start;
     justify-content: center;
-    align-items: center;
-    margin: 0;
-    padding: 0;
-    height: 34%;
-    width: 100%;
-    gap: 10%;
-    background-color:azure;
-
+    font-size: xx-large;
 }
-.wieclawskitext,.zsztext, .amazontext {
-display: flex;
-flex-direction: column;
-padding: 0;
-margin: 0;
-align-items: center;
-justify-content: center;
-width: 50%;
-
-}
-.zszimg,.amazonimg {
-    border-radius: 50%; 
-   height: 90%;
-}
-.wieclawskiimg{
-    height: 90%; 
+.photo img {
+    width: 70%;
+    height: auto;
     border-radius: 50%;
-    width: 50%;
-    margin-left: 10%
+
+}
+
+.title {
+    font-size: xx-large;
+    color: rgb(0, 189, 166);
+}
+.about-info {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    padding: 10px;
 }
 
 .footer {
@@ -148,7 +134,7 @@ flex-direction: row;
 }
 
 .about {
-    color: rgb(0, 189, 166);;
+    color: rgb(0, 189, 166);
     font-size: 200%;
     font-weight: 500;
 }
